@@ -27,14 +27,11 @@ export class Matrix {
     }
    return columns
   }
-
   get rows() {
     return this._rows
   }
-
   get columns() {
     return this._columns
   }
-
   }
 
